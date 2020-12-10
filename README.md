@@ -6,9 +6,10 @@
 # DDOS-Attack Tools
 
 # How to Install
-* ```pkg install python```
-* ```pkg install python2```
-* ```pkg install git```
+* ```apt install python```
+* ```apt install python2```
+* ```apt install git```
+* ```apt install figlet```
 * ```https://github.com/Jasem-codect/DDOS.git```
 * ```cd DDOS```
 

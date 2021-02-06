@@ -13,4 +13,4 @@
 * ```https://github.com/Jasem-codect/DDOS.git```
 * ```cd DDOS```
 
-Type command ```python2 ddos.py``` To run the script
+Type command ```python2 ddos-attack.py``` To run the script

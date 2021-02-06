@@ -19,15 +19,7 @@ bytes = random._urandom(1490)
 
 #############
 
-os.syatem (" pkg install figlet -y ")
-os.system (" pkg inatall ruby -y ")
-os.system (" gem install lolcat ")
-os.system (" sudo apt-get install figlet -y ")
-os.system (" sudo apt-get install ruby -y ")
-os.system (" sudo gem install lolcat ")
-
 os.system (" clear ")
-
 os.system (" figlet DDos attacker | lolcat ")
 
 print

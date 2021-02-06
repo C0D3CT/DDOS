@@ -1,6 +1,6 @@
 # DDOS
 
-### Avalin barname jasem codect
+### Avalin barname amir codect
 
 
 # DDOS-Attack Tools

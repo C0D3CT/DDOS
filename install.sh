@@ -7,5 +7,6 @@ clear
 figlet installing... | lolcat
 echo        
 pkg install python
+pkg install python2
 cd DDOS
 python2 ddos-attack.py

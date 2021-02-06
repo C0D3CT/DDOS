@@ -28,14 +28,14 @@ os.system("figlet DDos attacker | lolcat")
 
 print
 print "Creator : Jasem-codect"
-print "Github : https://github.com/Jasem-codect"
-print "Telegram : @jsm_codect"
+print "Github  : https://github.com/Jasem-codect"
+print "My id   : t.me/JSM_codect"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting | lolcat")
+os.system("figlet STARTING | lolcat")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"

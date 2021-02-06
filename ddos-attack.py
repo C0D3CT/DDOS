@@ -24,7 +24,7 @@ os.system (" figlet DDos attacker | lolcat ")
 
 print
 print "Creator : Amir codect (( JASEM ))"
-print "Github  : github.com/Jasem-codect"
+print "Github  : github.com/C0D3CT"
 print "My id   : t.me/JSM_codect"
 print
 
